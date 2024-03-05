@@ -15,10 +15,26 @@ print(x,y,Y)
 #y = int(3)
 #z = float(3)
 
-#print(x,y,Y)
+a = "Python is"
+b = " awesome"
+c = a + b
+a = 5
+b = 10
 
+print(c,",", a+b)
 
+x = 5
+y = 2
 
+if x>y:
+    print("x is greater than y")
+else:
+    print("x is not greater than y")
+i=1
+
+while i<6:
+    print(i)
+    i+=1
 
 
 
