@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73d600af-d669-4b6f-99fe-ae923013d447" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/building-a-dataset.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversion_picture_to_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_texto/dataset_finaldata_set_tugba_0.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/data_set_tugba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/ponte_squared.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/tabela2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/tabela3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/tabela4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/tabela5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/tabela6_approved.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/tabela7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/tabela8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_tp/tabela_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory-structure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_66.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_75.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_77.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_78.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_79.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_83.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_85.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_86.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_89.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_91.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_92.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_93.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_94.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_95.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_97.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_98.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data_set_tugba_99.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_0.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_1.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_10.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_11.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_12.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_13.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_14.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_15.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_16.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_17.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_18.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_19.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_2.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_20.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_21.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_22.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_23.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_24.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_25.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_26.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_27.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_28.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_29.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_3.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_30.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_31.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_32.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_33.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_34.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_35.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_36.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_37.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_38.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_39.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_4.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_40.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_41.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_42.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_43.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_44.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_45.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_46.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_47.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_48.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_49.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_5.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_50.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_51.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_52.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_53.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_54.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_55.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_56.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_57.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_58.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_59.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_6.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_60.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_61.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_62.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_63.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_64.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_65.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_66.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_67.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_68.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_69.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_7.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_70.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_71.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_72.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_73.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_74.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_75.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_76.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_77.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_78.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_79.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_8.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_80.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_81.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_82.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_83.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_84.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_85.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_86.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_87.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_88.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_89.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_9.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_90.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_91.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_92.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_93.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_94.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_95.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_96.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_97.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_98.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_text/data_set_tugba_99.png.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_all_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resize_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/split_images.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turing-machines/Ficha-Leitura-5_complexidade-computacional .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turing-machines/MT_1_2_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turing-machines/turing_machine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turing-machines/turing_machine1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turing-machines/turing_machine2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/turing-machines/turing_machine3.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eXfcX2Mp4BWgvlS7MQd4HkytcS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/1710012/Desktop/github2024/dst_1710012_2024/Final_Work",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1710012\Desktop\github2024\dst_1710012_2024\building-a-dataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="dataset_build" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="building-a-dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset_build.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="building-a-dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_all_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="building-a-dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_all_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="split_images (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="building-a-dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/split_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turing_machine1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="building-a-dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/turing-machines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turing-machines/turing_machine1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turing_machine2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="building-a-dataset" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/turing-machines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turing-machines/turing_machine2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.turing_machine2" />
+        <item itemvalue="Python.turing_machine1" />
+        <item itemvalue="Python.dataset_build" />
+        <item itemvalue="Python.read_all_files" />
+        <item itemvalue="Python.split_images (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73d600af-d669-4b6f-99fe-ae923013d447" name="Changes" comment="" />
+      <created>1712055922512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712055922512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
