@@ -1,8 +1,7 @@
 import random
 
-import numpy as np
 import pandas as pd
-import csv
+
 
 x=1000
 x_train=0
@@ -11,9 +10,10 @@ select_train=[]
 select_test=[]
 data_train=[]
 data_test=[]
+final_name="tugba_can"
 def size_x():
     global x
-    data = pd.read_csv("./datasets/winequality-white.csv", sep=";")
+    data = pd.read_csv("./datasets/"+final_name+".csv", sep=",",header=None)
     x=len(data)-2
 def num_rows(x):
     global x_train
@@ -34,7 +34,6 @@ def select_rows(x):
     while i< x_train:
         i=i+1
         rnd=random.randrange(len(row))
-        #print(type(rnd),rnd)
         select_train.append(row[rnd])
         row.pop(rnd)
         print(len(row))
@@ -42,16 +41,12 @@ def select_rows(x):
     select_train.sort()
 
 def generate_train():
-    data = pd.read_csv("./datasets/winequality-white.csv", sep=";")
+    data = pd.read_csv("./datasets/"+final_name+".csv", sep=",",header=None)
     global data_train
     global data_test
-    fields=data.keys()
-    print(fields)
-    print(type(fields))
-    data_train.append(data.keys())
-    data_test.append(data.keys())
 
     for i in select_train:
+        print("data[",i,"]=",data.iloc[i])
         data_train.append(data.loc[i])
     for i in select_test:
         data_test.append(data.loc[i])
@@ -62,18 +57,11 @@ num_rows(x)
 select_rows(x)
 generate_train()
 print(x_train,x_test,(x_train+x_test)==x)
-print(select_train)
-print(select_test)
+print("selection_train= ",select_train)
+print("selection_test= ",select_test)
 print(type(data_train))
 #print(data_train)
-
-with open('./datasets/wine_dataset_train.csv', 'w',newline='') as f:
-    # using csv.writer method from CSV package
-    write = csv.writer(f,delimiter=';')
-    write.writerows(data_train)
-f.close()
-with open('./datasets/wine_dataset_test.csv', 'w',newline='') as f:
-    # using csv.writer method from CSV package
-    write = csv.writer(f,delimiter=';')
-    write.writerows(data_test)
-f.close()
+df_train=pd.DataFrame(data_train)
+df_test=pd.DataFrame(data_test)
+df_train.to_csv('./datasets/'+final_name+'_train.csv', header=None,index=None)
+df_test.to_csv('./datasets/'+final_name+'_test.csv', header=None,index=None)
