@@ -1,17 +1,17 @@
 import pandas as pd
 
 from sklearn import datasets, linear_model
-name="<dataset-name>" # from the folder building_dataset
-final_name="<dataset-final-name>"
+name="dataset_finaldata_set_tugba_0.png" # from the folder building_dataset
+final_name="tugba_can"
 data = pd.read_csv("datasets/"+name+".csv", sep=";", header=None)
 print(type(data))
 print(data)
-list=[1,2,3,4,5,6,7,8,9]
+list=[50,51,52,53,54,55,65,66,67]
 u=[]
-u.append(0)
+u.append(49)
 
 for x in list:
-    u.append(0)
+    u.append(49)
     for y in range(0,10):
         u.append(x)
 print(u)
